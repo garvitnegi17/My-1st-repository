@@ -3,4 +3,4 @@ This is my 1st project that I have made by using md only.
 <br>
 Author - Garvit Negi
 <br>
-Hobby - Playing Football
+Hobby - Playing Football, Collecting Coins
